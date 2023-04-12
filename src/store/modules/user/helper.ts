@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: `https://picsum.photos/seed/${new Date().toString()}/200`,
       name: 'Madison',
-      description: '<a href="https://zhuangsen.live/" class="text-blue-500" target="_blank" >Chat Bot</a>',
+      description: '<a href="https://bot.zhuangsen.live/" class="text-blue-500" target="_blank" >Chat Bot</a>',
     },
   }
 }
